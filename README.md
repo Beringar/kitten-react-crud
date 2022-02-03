@@ -3,6 +3,8 @@
 
 This app uses React hooks ***useState*** and ***useContext***
 
+Form uses ***useState*** hooks to handle data input
+
 scripts:
 ### `npm start`
 ### `npm test`
