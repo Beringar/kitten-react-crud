@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Lorenzo",
+    "picture": "https://scontent.fmad6-1.fna.fbcdn.net/v/t1.18169-9/10906163_827640943958828_2686404149749590532_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=ba80b0&_nc_ohc=R4tzbu2716YAX_mS0G5&_nc_oc=AQnocLwBxNlwx3gU__DD-n3pUR84dupFL1RG2Xef4-uGJdYTZWSFOJSekq9tIesCUuA&tn=Gb8Ot50xwM7CMw1y&_nc_ht=scontent.fmad6-1.fna&oh=00_AT9Sj5HEZq0KPcYNegpGddkt3zSuBVc_wnC2pnPFIrX-QQ&oe=62201DC8",
+    "adopted": true
+  },
+  {
+    "id": 2,
+    "name": "Bsbsbss",
+    "picture": "https://i.pinimg.com/736x/b3/ff/3a/b3ff3accc46377d013a80eb9519c8c1c.jpg",
+    "adopted": false
+  },
+  {
+    "id": 3,
+    "name": "Sebastián",
+    "picture": "https://i.pinimg.com/originals/8c/ab/4e/8cab4e46f19b1c4ae0ed8ff6c5115e7d.jpg",
+    "adopted": true
+  }
+]

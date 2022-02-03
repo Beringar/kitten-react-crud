@@ -1,0 +1,8 @@
+.form-kitty label {
+  width: 80px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.form-kitty input {
+  width: 400px;
+}
