@@ -1,7 +1,7 @@
 # KITTEN-REACT-CRUD (with form)
 (Based on ISDI Coders exercise)
 
-### This app uses React hooks **useState** and **useContext**
+This app uses React hooks ***useState*** and ***useContext***
 
 scripts:
 ### `npm start`
